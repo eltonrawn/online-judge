@@ -1,0 +1,3 @@
+file20.cpp:34:37: warning: integer constant is too large for its type
+     FOR(i, 1, 1000000000000000000000)   {
+                                     ^
